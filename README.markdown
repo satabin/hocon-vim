@@ -1,3 +1,5 @@
+**Deprecated, use the treesitter integration instead: https://github.com/antosha417/tree-sitter-hocon**
+
 (N)Vim HOCON plugin
 ===================
 
